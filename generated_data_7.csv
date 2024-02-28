@@ -1,0 +1,51 @@
+Date,Account Number,Company Name,Clear Ownership Structure,Industry,Domiciled,Transaction Type,Transaction Origin,Transaction Currency,Transaction Amount,6-Month Transaction Volume Average
+2024-01-31,925083,Tech Products,No,Finance,Bahamas,incoming,Italy,CAD,93060.76,29029.42
+2024-01-27,600961,Dynamic Services,No,Retail,Bahamas,outgoing,Jamaica,USD,299234.01,5822.71
+2024-01-07,280950,Tech Corporation,No,Retail,Cayman Islands,incoming,United States,EUR,260001.09,141486.01
+2024-01-18,720541,Future Corporation,Yes,Retail,Bahamas,incoming,Germany,USD,821611.5,1014858.29
+2024-01-18,811304,Tech Corporation,No,Finance,Cayman Islands,outgoing,Canada,EUR,345254.89,418508.34
+2024-01-11,950038,Dynamic Corporation,No,Construction,Cayman Islands,outgoing,St. Lucia,EUR,883195.31,1304757.73
+2024-01-15,108993,Eco Services,No,Retail,Bahamas,incoming,Cayman Islands,GBP,195113.38,117057.18
+2024-01-22,890334,Tech Products,Yes,Used Car Sales,Bahamas,outgoing,Bahamas,GBP,513003.37,749514.77
+2024-01-11,260804,Future Products,Yes,Retail,Barbados,incoming,Jamaica,EUR,703833.83,803433.86
+2024-01-27,292635,NextGen Corporation,Yes,Used Car Sales,Jamaica,incoming,Canada,GBP,828971.97,956374.49
+2024-01-07,474214,Innovative Solutions,No,Used Car Sales,Bahamas,outgoing,Bahamas,USD,509523.91,302512.51
+2024-01-31,812659,Innovative Solutions,Yes,Healthcare,Barbados,incoming,Mexico,CAD,979078.02,1286049.85
+2024-01-29,934357,Dynamic Solutions,Yes,Manufacturing,Barbados,incoming,Spain,EUR,591216.0,126960.16
+2024-01-29,492840,Innovative Technologies,Yes,Healthcare,St. Lucia,outgoing,Barbados,EUR,384055.9,373622.44
+2024-01-05,768421,Tech Services,Yes,Manufacturing,Jamaica,incoming,Mexico,GBP,139737.29,140160.31
+2024-01-03,916690,Future Products,Yes,Manufacturing,Bahamas,incoming,Spain,USD,546301.63,559784.2
+2024-01-27,909367,Dynamic Technologies,Yes,Microfinance,Barbados,incoming,Mexico,GBP,658062.64,844904.73
+2024-01-26,205326,Global Industries,No,Used Car Sales,Cayman Islands,outgoing,United Kingdom,USD,39347.38,47418.61
+2024-01-29,242980,Dynamic Corporation,Yes,Healthcare,St. Lucia,outgoing,Italy,EUR,298786.06,413717.67
+2024-01-25,579660,Global Services,No,Technology,Barbados,incoming,Canada,GBP,622193.47,183164.2
+2024-01-20,806583,Eco Industries,Yes,Manufacturing,Jamaica,incoming,St. Lucia,USD,495669.48,632157.05
+2024-01-06,423743,NextGen Products,Yes,Healthcare,Barbados,outgoing,Bahamas,EUR,149683.06,220941.16
+2024-01-30,636831,NextGen Corporation,No,Construction,Cayman Islands,incoming,Canada,EUR,613413.54,670455.9
+2024-01-22,231824,Dynamic Products,No,Technology,Cayman Islands,incoming,Jamaica,GBP,981437.14,759873.93
+2024-01-24,366858,Dynamic Solutions,No,Construction,Bahamas,incoming,Bahamas,USD,511140.22,57965.94
+2024-01-16,102896,Future Corporation,Yes,Technology,Barbados,outgoing,Germany,GBP,842930.75,361823.07
+2024-01-28,540660,Eco Services,Yes,Construction,St. Lucia,incoming,United Kingdom,CAD,664662.86,524737.82
+2024-01-10,207939,Tech Industries,Yes,Manufacturing,Bahamas,incoming,Canada,USD,863546.23,318476.7
+2024-01-05,804510,Tech Services,Yes,Microfinance,Cayman Islands,outgoing,St. Lucia,GBP,567276.27,75005.51
+2024-01-03,986407,Innovative Products,Yes,Retail,Cayman Islands,incoming,France,CAD,191613.46,170919.32
+2024-01-30,373865,Innovative Corporation,Yes,Used Car Sales,Barbados,incoming,Germany,CAD,891976.39,1334568.96
+2024-01-13,777321,Dynamic Technologies,Yes,Technology,Barbados,incoming,Spain,GBP,187281.94,232232.76
+2024-01-26,109200,NextGen Corporation,No,Construction,St. Lucia,outgoing,United States,EUR,374931.28,451636.14
+2024-01-30,661845,Future Corporation,Yes,Microfinance,Cayman Islands,outgoing,Mexico,GBP,144287.72,173293.88
+2024-01-13,274476,Tech Corporation,No,Finance,Barbados,incoming,France,GBP,975244.8,1326157.11
+2024-01-10,831814,Eco Solutions,Yes,Manufacturing,St. Lucia,outgoing,Bahamas,EUR,558314.0,592771.83
+2024-01-24,325699,Eco Corporation,No,Used Car Sales,Jamaica,incoming,Spain,GBP,995370.99,569629.41
+2024-01-15,975721,Tech Services,Yes,Technology,Barbados,outgoing,Barbados,EUR,36223.11,278.72
+2024-01-10,388457,Global Technologies,Yes,Finance,St. Lucia,outgoing,Cayman Islands,USD,731037.76,820439.93
+2024-01-25,980880,Dynamic Services,No,Finance,Cayman Islands,outgoing,Spain,EUR,761694.73,446242.09
+2024-01-26,798847,Innovative Products,Yes,Manufacturing,Bahamas,incoming,Germany,GBP,598545.6,871181.98
+2024-01-03,508447,Innovative Corporation,Yes,Microfinance,St. Lucia,incoming,Canada,USD,894652.96,1028549.49
+2024-01-20,626198,Global Solutions,Yes,Used Car Sales,Bahamas,incoming,Bahamas,CAD,574823.49,370103.37
+2024-01-09,206393,Dynamic Industries,No,Technology,St. Lucia,incoming,France,EUR,296069.28,420044.57
+2024-01-18,230327,Dynamic Corporation,Yes,Microfinance,Bahamas,incoming,France,CAD,99566.89,50117.56
+2024-01-25,986389,NextGen Services,No,Manufacturing,Barbados,outgoing,St. Lucia,GBP,42618.59,60319.76
+2024-01-11,586647,Eco Solutions,Yes,Retail,St. Lucia,outgoing,Jamaica,GBP,332718.51,477712.5
+2024-01-23,439361,Dynamic Technologies,No,Construction,Barbados,outgoing,Mexico,USD,559489.67,803883.86
+2024-01-18,533997,Innovative Products,No,Healthcare,Bahamas,incoming,Bahamas,USD,965279.0,954184.61
+2024-01-10,114540,Dynamic Industries,No,Healthcare,St. Lucia,incoming,United States,USD,646530.47,106032.51
